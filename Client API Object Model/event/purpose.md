@@ -3,9 +3,13 @@ An event is an action or occurrence that happens in the system, like:
 ## Form Events :
 
 **OnLoad:** _When a form is loaded._
+
 **OnSave:** _When a form is saved._
+
 **OnChange:** _When a field value changes._
+
 **OnClick:** _When a button is clicked._
+
 
 
 ## Tab Events :
