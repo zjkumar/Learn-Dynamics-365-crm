@@ -9,7 +9,7 @@ These forms provide various options like sections, tabs, sub grids, business rul
 
 Quick create forms in Dynamics 365 make it easy to enter data quickly. They support the same logic as regular forms, including scripts and business rules.
 
-When creating an entity, you need to check _custom entities can be enabled to support these forms by selecting Allow Quick Create_ or _leverage quick create form if available_.
+When creating an entity, you need to check **_Allow Quick Create_ or _leverage quick create form if available_.**
 
 
 ## Quick View Form :
