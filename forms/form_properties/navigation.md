@@ -1,0 +1,1 @@
+***settings -> advanced settings -> solutions -> choose a solution -> entities -> choose an entity -> forms -> choose a form -> on the top you can find form properties***
