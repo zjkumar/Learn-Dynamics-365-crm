@@ -25,7 +25,4 @@
 > Fully responsive, works seamlessly across all devices.
 
 ### User Experience: 
-
-----
-Cleaner, more intuitive layout with better use of space. Tabs are actual tabs, and the Record Navigation Pane allows easy switching between records.
-----
+> Cleaner, more intuitive layout with better use of space. Tabs are actual tabs, and the Record Navigation Pane allows easy switching between records.
