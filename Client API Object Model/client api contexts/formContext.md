@@ -3,7 +3,7 @@
 - Form Context provides reference to the form or item on the form, such as, quick view control or a row in editable grid.
 
 - Form context has two components, Data object and UI object.
-- 
+
 
     - ## Data object :
         _Provides properties and methods to work with data on a form, including table data and data in bpf control._
