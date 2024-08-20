@@ -1,1 +1,1 @@
-**_go to advanced settings -> solutions (choose a solution) -> entities (choose an entity) -> business rules _**
+**_go to advanced settings -> solutions (choose a solution) -> entities (choose an entity) -> business rules_**
