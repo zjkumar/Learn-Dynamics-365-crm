@@ -1,0 +1,1 @@
+**1. [Dynamics 365 Interactive Conceptual Diagram](https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=Dynamics%20365%20Sales%20Conceptual#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D13I9cBRIDNzpk-smMG2s5RjacbJA07qAw%26export%3Ddownload#%7B%22pageId%22%3A%2255eE27mIOmAHDcwvDVop%22%7D)**

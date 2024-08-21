@@ -1,0 +1,1 @@
+**1. If you want to get more knowledge on power platform, [Linn's Power Platform Notebook](https://linnzawwin.blogspot.com/) is good resource**
