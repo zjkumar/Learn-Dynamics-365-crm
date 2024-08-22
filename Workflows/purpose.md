@@ -46,3 +46,10 @@ _Even if both workflows appear similar because they are based on time conditions
 - OOB workflows cannot retrieve child records and perform any operation. You need custom workflow plugins to achieve it.
 
 - Only 4 nested if conditions are allowed.
+
+
+## Converting between real-time and background workflows :
+
+- You can change a real-time workflow into a background workflow by choosing Convert to a background workflow on the toolbar.
+
+- You can change a background workflow into a real-time workflow by choosing Convert to a real-time workflow on the toolbar. If the background workflow uses a wait conditions it will become invalid and you won’t be able to activate it until you remove the wait condition.
