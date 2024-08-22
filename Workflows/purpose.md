@@ -44,3 +44,5 @@ _Even if both workflows appear similar because they are based on time conditions
 - The triggering events are limited to create/update/delete/assign/state change, which is a disadvantage when you have custom message-based actions.
 
 - OOB workflows cannot retrieve child records and perform any operation. You need custom workflow plugins to achieve it.
+
+- Only 4 nested if conditions are allowed.
