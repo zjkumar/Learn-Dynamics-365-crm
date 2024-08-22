@@ -32,3 +32,15 @@ _Even if both workflows appear similar because they are based on time conditions
 - It defines if you want to save the job or delete the job after succuessful execution of a workflow.
 
 - Note that, if any error arise, it will keep the logs and the job session in the process session
+
+
+
+### Considerations to use Workflows :
+
+- They do not trigger in offline mode.
+
+- They do not trigger on Pre-operation, always trigger in Post-operation.
+
+- The triggering events are limited to create/update/delete/assign/state change, which is a disadvantage when you have custom message-based actions.
+
+- OOB workflows cannot retrieve child records and perform any operation. You need custom workflow plugins to achieve it.
