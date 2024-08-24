@@ -7,7 +7,7 @@
 
 **_Major categories of Power Automate_**
 
-- **`Cloud Flows :`** 
+- **`Cloud Flows :`** _API-based digital process automation_
 
     - **Automated :** 
         - Allows us to create an automation that is triggered by an event such as arrival of an email from a specific person, or a mention of your company in social media.
@@ -18,7 +18,7 @@
     - **Scheduled Flows :**
         - Allows us to schedule an automation such as daily data upload to a database.
 
-- **`Desktop Flows :`**
+- **`Desktop Flows :`** _UI-based robotic process automation (RPA)_
     - Desktop flows broaden the existing automation capabilities in Power Automate and enable you to automate all repretitive desktop processes.
 
 

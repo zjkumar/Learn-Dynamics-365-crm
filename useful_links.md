@@ -32,3 +32,9 @@
 
 
 **13. _[query data using xrm.webapi (can use js) ]( https://learn.microsoft.com/enus/powerapps/developer/modeldrivenapps/clientapi/reference/xrmwebapi)_**
+
+
+**14. _[Different ways to learn on Microsoft ]( https://learn.microsoft.com/enin/?cc=in&setlang=enin&form=ML2GB5&OCID=ML2GB5&PUBL=DeskSpot&CREA=ML2GB5)_**
+
+
+**15. _[Microsoft on demand instructor led training](https://learn.microsoft.com/enus/shows/ondemandinstructorledtrainingseries/)_**
