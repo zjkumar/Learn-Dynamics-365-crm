@@ -1,3 +1,7 @@
+# Form :
+
+In Dynamics 365 CRM, a form is a user interface component that displays data from a specific entity. Forms are used to create, view, and edit records within the CRM system.
+
 ## Main form :
 
 Main forms are the primary user interface where peoplce can view and interact with the data.
