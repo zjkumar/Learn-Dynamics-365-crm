@@ -26,4 +26,4 @@ There are 4 different apps in customer service module.
 
 
 - Omni channel for customer service
-    - _Enables orgs to instantly connect across digital messaging channels._
+    - _Enables orgs to instantly connect across digital messaging channels._ 
