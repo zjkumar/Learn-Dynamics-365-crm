@@ -34,6 +34,8 @@
         - Choose the unmanaged type
         - It will download a zip file.
 
+
+# Import the solution
 - make.powerapps.com
 - Choose the environment in which you want to import the solution
 - Navigate to solutions
