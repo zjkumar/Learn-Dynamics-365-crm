@@ -1,0 +1,2 @@
+- Used to generate random numbers.
+- Might be useful in scenarios like making decisions based on random values, or to create unique IDs, reference numbers, or codes.
