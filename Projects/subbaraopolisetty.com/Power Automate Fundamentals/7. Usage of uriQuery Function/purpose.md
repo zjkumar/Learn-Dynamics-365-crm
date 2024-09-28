@@ -1,0 +1,2 @@
+- One of the most common scenarios is to extract parameters that are present in website url.
+- It can be achieved using uriQuery.
