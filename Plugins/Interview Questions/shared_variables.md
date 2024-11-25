@@ -12,3 +12,4 @@
 **Disadvantages :**
 - Cannot share variable of different steps with different message or entity.
 - Need to use ParentContext.SharedVariables collection if data is passed from stage 10 and needed to access in stage 20 or stage 40 of message type create or update or delete.
+- IPluginExecutionContext parentContext = executionContext.ParentContext (this is how we access parent context)
