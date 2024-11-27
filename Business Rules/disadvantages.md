@@ -10,3 +10,5 @@
 
 - Business rules work at field level.
 
+- Business rules can only use calculated field or rollup field values in conditions. It cannot set or modify the values since they are read-only. 
+
