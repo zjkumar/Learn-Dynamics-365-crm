@@ -34,20 +34,22 @@ CreateEntityKeyRequest createKeyRequest = new CreateEntityKeyRequest
 };
 
 service.Execute(createKeyRequest);
-Use Cases
-Data Integration: When integrating Dynamics 365 with external systems that use natural keys.
 
-Data Migration: During data migration projects to ensure records are uniquely identified.
 
-Data Quality: To enforce data quality by preventing duplicate records.
+**Use Cases :**
+- Data Integration: When integrating Dynamics 365 with external systems that use natural keys.
 
-Constraints
-Valid Attribute Types: Only certain attribute types can be used in alternate keys, such as string, integer, and decimal.
+- Data Migration: During data migration projects to ensure records are uniquely identified.
 
-Field-Level Security: Attributes with field-level security cannot be used in alternate keys.
+- Data Quality: To enforce data quality by preventing duplicate records.
 
-Logical and Inherited Attributes: Most logical and inherited attributes cannot be used in alternate keys.
+**Constraints :**
+- Valid Attribute Types: Only certain attribute types can be used in alternate keys, such as string, integer, and decimal.
 
-Summary
+- Field-Level Security: Attributes with field-level security cannot be used in alternate keys.
+
+- Logical and Inherited Attributes: Most logical and inherited attributes cannot be used in alternate keys.
+
+**Summary :**
 Alternate keys in Dynamics 365 CRM provide a powerful way to uniquely identify records using attributes other than the primary key. They are particularly useful for data integration, migration, and ensuring data quality. By understanding how to create and use alternate keys, you can enhance the performance and integrity of your CRM data.
 
