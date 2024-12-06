@@ -20,7 +20,7 @@
 
 
 **Accessing in the plugin code :**
-    - We can access using context.PreEntityImages["PreImage1"] if we defined multiple images
+    - We can access using Entity preLead = (Entity)context.PreEntityImages["PreImage1"]; if we defined multiple images
     - If we defined only a single image, then we can use context.GetPreImage()
 
 **Considerations :**
